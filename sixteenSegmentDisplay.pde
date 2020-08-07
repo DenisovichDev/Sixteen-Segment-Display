@@ -1,4 +1,4 @@
-// This programme is based on The Coding Train video on Seven Segment Display
+// This programme is based on The Coding Train video on Seven Segment Display and anusha-exe's simple-LED-clock repository.
 
 //A, B, C,...Z.
 int nums[]={
